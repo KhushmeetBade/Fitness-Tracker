@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+/target/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Misc
+.settings/
