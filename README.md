@@ -1,3 +1,4 @@
+# Updating README
 # Fitness Tracker (COMP3520 Group Project)
 
 Java console-based fitness & wellness tracker.
