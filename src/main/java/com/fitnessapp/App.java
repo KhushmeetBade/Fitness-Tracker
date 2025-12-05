@@ -1,3 +1,5 @@
+//Checking for errors
+
 package com.fitnessapp;
 
 import com.fitnessapp.model.*;
