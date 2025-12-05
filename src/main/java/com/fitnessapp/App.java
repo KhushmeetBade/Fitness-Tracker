@@ -1,5 +1,6 @@
 //Refactor App.java
 //Errors Fixed
+// Updating App.java
 
 package com.fitnessapp;
 
