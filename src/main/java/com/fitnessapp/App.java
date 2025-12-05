@@ -1,3 +1,6 @@
+//Refactor App.java
+//Errors Fixed
+
 package com.fitnessapp;
 
 import com.fitnessapp.model.*;
