@@ -1,3 +1,4 @@
+// Updating ActivityRecord Test file
 package com.fitnessapp.model;
 
 import java.time.LocalDate;
